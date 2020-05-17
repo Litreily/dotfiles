@@ -1,0 +1,26 @@
+
+# head: <type>(<scope>): <subject>
+# - type:
+#     feat: A new feature
+#     fix:  A bug fix
+#     docs: Documentation only changes
+#     style: Changes that do not affect the meaning of the code
+#     refactor: A code change that neither fixes a bug nor adds a feature
+#     perf: A code change that improves performance
+#     test: Adding missing tests or correcting existing tests
+#     build: Changes that affect the build system or external dependencies
+#     cic: Changes to our CI configuration files and scripts
+#     chore: Other changes that dont modify src or test files
+#     revert: Reverts a previous commit
+# - scope: can be empty
+# - subject: start with verb (such as 'change')
+#
+# body: 
+# - [Description]: what's the issue
+# - [Root Cause]: what cause the issue
+# - [Solution]: how to fix
+# - [Test on]: test on which projects
+#
+# footer:
+# - Include a link to the ticket, if any.
+# - some notice info
