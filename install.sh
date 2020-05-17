@@ -17,11 +17,6 @@ do
 done < filelist
 rm -f filelist
 
-[ -f ~/.gitconfig ] && {
-	sed -i 's/^\tname\ =.*$/\tname\ =\ '${user}'/' ~/.gitconfig
-	sed -i 's/^\temail\ =.*$/\temail\ =\ '${email}'/' ~/.gitconfig
-}
-
 cp -rf tmux ~/.tmux
 
 mv _git .git
