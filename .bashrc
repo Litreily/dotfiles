@@ -54,11 +54,8 @@ export LESS_TERMCAP_us=$'\E[01;32m'
 
 export GROFF_NO_SGR=yes
 
-# enable java
-export PATH=$PATH:/home/tony.he/jre/jre1.8.0_161/bin
-
 # eable z.sh
-. $HOME/bin/z-1.9/z.sh
+#. $HOME/bin/z-1.9/z.sh
 
 #undefine color
 unset BLACK
