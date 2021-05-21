@@ -1,9 +1,9 @@
 [submodule ".fzf"]
 	path = .fzf
-	url = https://github.com/junegunn/fzf.git
+	url = https://github.com.cnpmjs.org/junegunn/fzf.git
 [submodule "tmux/tmux-resurrect"]
 	path = tmux/tmux-resurrect
-	url = https://github.com/tmux-plugins/tmux-resurrect.git
+	url = https://github.com.cnpmjs.org/tmux-plugins/tmux-resurrect.git
 [submodule "tmux/tmux-continuum"]
 	path = tmux/tmux-continuum
-	url = https://github.com/tmux-plugins/tmux-continuum.git
+	url = https://github.com.cnpmjs.org/tmux-plugins/tmux-continuum.git
