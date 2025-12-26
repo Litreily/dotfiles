@@ -81,7 +81,7 @@ alias cd2='cd ../..'
 alias cd3='cd ../../..'
 alias cd4='cd ../../../..'
 alias ctags='~/bin/ctags/bin/ctags'
-alias grep='~/bin/grep/bin/grep --color=auto'
+#alias grep='~/bin/grep/bin/grep --color=auto'
 ## git
 alias gp='git push'
 alias gpl='git pull'
